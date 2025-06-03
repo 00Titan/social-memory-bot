@@ -11,10 +11,21 @@ Telegram-бот + Django-приложение для сохранения инф
 - 🌐 Возможность фильтрации и поиска
 - 📦 Готов к деплою и расширению
 
+## 🔧 Стек технологий
+
+- Python 3.11+
+- Django 5.x
+- PostgreSQL
+- Aiogram 3.x
+- Admin-панель Django
+- Telegram Bot API
+
 ## 📦 Установка
 
-1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/yourusername/social-memory-bot.git
+git clone https://github.com/ТВОЙ_ЛОГИН/social-memory-bot.git
 cd social-memory-bot
+python -m venv venv
+venv\Scripts\activate  # для Windows
+pip install -r requirements.txt
