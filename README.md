@@ -24,7 +24,7 @@ Telegram-бот + Django-приложение для сохранения инф
 
 
 ```bash
-git clone https://github.com/ТВОЙ_ЛОГИН/social-memory-bot.git
+git clone https://github.com/00Titan/social-memory-bot.git
 cd social-memory-bot
 python -m venv venv
 venv\Scripts\activate  # для Windows
